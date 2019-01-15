@@ -1,2 +1,1 @@
-name: first last
-email: name@email.com
+name: Micha Bitton email: biton7777@gmail.com
